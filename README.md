@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="340" height="" />
 </p>
 
-<p align="left">
+<p align="left" width="50%">
 🌱 I’m currently learning at ITI.
   
 👨‍💻 All of my projects are available at [GitHub](https://github.com/sarahmhd?tab=repositories)
