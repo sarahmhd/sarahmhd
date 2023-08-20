@@ -3,7 +3,7 @@
 <h3 align="center">A frontend developer from Egypt</h3>
 <p>I am a skilled Front-End Developer with expertise in designing and creating visually appealing websites. My role involves not only writing and editing web page content but also regularly updating websites to ensure they remain engaging and up to date. Additionally, I possess a strong knowledge of coding languages, allowing me to develop innovative and efficient web applications.</p>
 
-<h3 align="left">Connect with me: <a>https://www.linkedin.com/in/sara-mohamed-648160154/</a></h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/sara-mohamed-648160154">LinkedIn/</a></h3>
 <p align="left">
 </p>
 
