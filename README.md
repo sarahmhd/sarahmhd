@@ -2,15 +2,17 @@
 <h1 align="center">Hi there 👋, I'm Sarah Mohamed</h1>
 <h3 align="center">A frontend developer from Egypt</h3>
 <p>I am a skilled Front-End Developer with expertise in designing and creating visually appealing websites. My role involves not only writing and editing web page content but also regularly updating websites to ensure they remain engaging and up to date. Additionally, I possess a strong knowledge of coding languages, allowing me to develop innovative and efficient web applications.</p>
-<p align="center">
+<p align="right">
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="340" height="" />
 </p>
 
+<p align="left">
 🌱 I’m currently learning at ITI.
   
 👨‍💻 All of my projects are available at [GitHub](https://github.com/sarahmhd?tab=repositories)
 
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qVV_2SAILiR7766JE8GT0Ge9UTOyd2mY/view?usp=sharing)
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sarah_7521](https://www.linkedin.com/in/sara-mohamed-648160154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarah_7521" height="30" width="40" /></a>
