@@ -4,8 +4,12 @@
 <p>I am a skilled Front-End Developer with expertise in designing and creating visually appealing websites. My role involves not only writing and editing web page content but also regularly updating websites to ensure they remain engaging and up to date. Additionally, I possess a strong knowledge of coding languages, allowing me to develop innovative and efficient web applications.</p>
 
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qVV_2SAILiR7766JE8GT0Ge9UTOyd2mY/view?usp=sharing)
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/sara-mohamed-648160154">LinkedIn</a></h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/sarah_7521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarah_7521" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sara-mohamed-648160154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-mohamed-648160154/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sara_mhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sara_mhd" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
