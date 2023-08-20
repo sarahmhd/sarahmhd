@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning at ITI.
   
-👨‍💻 All of my projects are available at [](https://github.com/sarahmhd?tab=repositories)
+👨‍💻 All of my projects are available at [GitHub](https://github.com/sarahmhd?tab=repositories)
 
 📄 Know about my experiences [<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
 <h3 align="left">Connect with me:</h3>
