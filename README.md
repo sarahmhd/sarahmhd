@@ -3,6 +3,8 @@
 <h3 align="center">A frontend developer from Egypt</h3>
 <p>I am a skilled Front-End Developer with expertise in designing and creating visually appealing websites. My role involves not only writing and editing web page content but also regularly updating websites to ensure they remain engaging and up to date. Additionally, I possess a strong knowledge of coding languages, allowing me to develop innovative and efficient web applications.</p>
 
+🌱 I’m currently learning at ITI.
+  
 👨‍💻 All of my projects are available at [](https://github.com/sarahmhd?tab=repositories)
 
 📄 Know about my experiences [<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
