@@ -3,7 +3,7 @@
 <h3 align="center">A frontend developer from Egypt</h3>
 <p>I am a skilled Front-End Developer with expertise in designing and creating visually appealing websites. My role involves not only writing and editing web page content but also regularly updating websites to ensure they remain engaging and up to date. Additionally, I possess a strong knowledge of coding languages, allowing me to develop innovative and efficient web applications.</p>
 <p align="right">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="340" height="" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flotties%2Ffemale-web-developer&psig=AOvVaw1yngKR9gbjzndjrntUZSM6&ust=1692653715956000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCdyYGm7IADFQAAAAAdAAAAABAK" width="340" height="" />
 </p>
 
 <p align="left" width="50%">
