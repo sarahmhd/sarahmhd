@@ -7,7 +7,7 @@
   
 👨‍💻 All of my projects are available at [GitHub](https://github.com/sarahmhd?tab=repositories)
 
-📄 Know about my experiences [<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qVV_2SAILiR7766JE8GT0Ge9UTOyd2mY/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sarah_7521](https://www.linkedin.com/in/sara-mohamed-648160154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarah_7521" height="30" width="40" /></a>
