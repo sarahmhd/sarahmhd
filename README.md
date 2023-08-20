@@ -3,7 +3,7 @@
 <h3 align="center">A frontend developer from Egypt</h3>
 <p>I am a skilled Front-End Developer with expertise in designing and creating visually appealing websites. My role involves not only writing and editing web page content but also regularly updating websites to ensure they remain engaging and up to date. Additionally, I possess a strong knowledge of coding languages, allowing me to develop innovative and efficient web applications.</p>
 <p align="right">
-<img src="https://www.freepik.com/free-vector/programmer-working-office-illustration_5694692.htm#page=6&query=girl%20programmer&position=5&from_view=keyword&track=ais" width="340" height="" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" height="" />
 </p>
 
 <p align="left" width="50%">
