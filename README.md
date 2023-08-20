@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Sarah Mohamed</h1>
+<h1 align="center"> I'm Sarah Mohamed</h1>
 <h3 align="center">A frontend developer from Egypt</h3>
 
 <h3 align="left">Connect with me:</h3>
