@@ -8,6 +8,7 @@
 
 <p align="left" width="50%">
 🌱 I’m currently learning at ITI.
+- 💬 You can ask me about *HTML, CSS, BOOTSTRAP*
   
 👨‍💻 All of my projects are available at [GitHub](https://github.com/sarahmhd?tab=repositories)
 
