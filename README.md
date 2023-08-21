@@ -8,13 +8,13 @@
 
 <p align="left" width="50%">
   
-<p>🌱 I’m currently learning at ITI.</p>
+<p>- 🌱 I’m currently learning at ITI.</p>
 
 <p>- 💬 You can ask me about *HTML, CSS, BOOTSTRAP*</p>
   
-👨‍💻 All of my projects are available at [GitHub](https://github.com/sarahmhd?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sarahmhd?tab=repositories)
 
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qVV_2SAILiR7766JE8GT0Ge9UTOyd2mY/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qVV_2SAILiR7766JE8GT0Ge9UTOyd2mY/view?usp=sharing)
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
