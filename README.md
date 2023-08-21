@@ -8,9 +8,9 @@
 
 <p align="left" width="50%">
   
-<p>- 🌱 I’m currently learning at ITI.</p>
+- 🌱 I’m currently learning at ITI
 
-<p>- 💬 You can ask me about *HTML, CSS, BOOTSTRAP*</p>
+- 💬 You can ask me about *HTML, CSS, BOOTSTRAP*
   
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/sarahmhd?tab=repositories)
 
