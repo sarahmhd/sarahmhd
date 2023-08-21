@@ -7,7 +7,9 @@
 <p>I am a skilled Front-End Developer with expertise in designing and creating visually appealing websites. My role involves not only writing and editing web page content but also regularly updating websites to ensure they remain engaging and up to date. Additionally, I possess a strong knowledge of coding languages, allowing me to develop innovative and efficient web applications.</p>
 
 <p align="left" width="50%">
+  
 <p>🌱 I’m currently learning at ITI.</p>
+
 <p>- 💬 You can ask me about *HTML, CSS, BOOTSTRAP*</p>
   
 👨‍💻 All of my projects are available at [GitHub](https://github.com/sarahmhd?tab=repositories)
