@@ -14,7 +14,7 @@
   
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/sarahmhd?tab=repositories)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qVV_2SAILiR7766JE8GT0Ge9UTOyd2mY/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dy02G3C4EXdRBrOa43FOUpH1kw9BXKMp/view?usp=sharing)
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
